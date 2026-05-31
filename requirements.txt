@@ -8,3 +8,5 @@ mlflow
 pandera
 joblib
 kaggle
+fastapi
+uvicorn
